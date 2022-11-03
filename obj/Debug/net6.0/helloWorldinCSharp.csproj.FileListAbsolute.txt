@@ -1,0 +1,15 @@
+/Users/jones/git/helloWorldinCSharp/bin/Debug/net6.0/helloWorldinCSharp
+/Users/jones/git/helloWorldinCSharp/bin/Debug/net6.0/helloWorldinCSharp.deps.json
+/Users/jones/git/helloWorldinCSharp/bin/Debug/net6.0/helloWorldinCSharp.runtimeconfig.json
+/Users/jones/git/helloWorldinCSharp/bin/Debug/net6.0/helloWorldinCSharp.dll
+/Users/jones/git/helloWorldinCSharp/bin/Debug/net6.0/helloWorldinCSharp.pdb
+/Users/jones/git/helloWorldinCSharp/obj/Debug/net6.0/helloWorldinCSharp.csproj.AssemblyReference.cache
+/Users/jones/git/helloWorldinCSharp/obj/Debug/net6.0/helloWorldinCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jones/git/helloWorldinCSharp/obj/Debug/net6.0/helloWorldinCSharp.AssemblyInfoInputs.cache
+/Users/jones/git/helloWorldinCSharp/obj/Debug/net6.0/helloWorldinCSharp.AssemblyInfo.cs
+/Users/jones/git/helloWorldinCSharp/obj/Debug/net6.0/helloWorldinCSharp.csproj.CoreCompileInputs.cache
+/Users/jones/git/helloWorldinCSharp/obj/Debug/net6.0/helloWorldinCSharp.dll
+/Users/jones/git/helloWorldinCSharp/obj/Debug/net6.0/refint/helloWorldinCSharp.dll
+/Users/jones/git/helloWorldinCSharp/obj/Debug/net6.0/helloWorldinCSharp.pdb
+/Users/jones/git/helloWorldinCSharp/obj/Debug/net6.0/helloWorldinCSharp.genruntimeconfig.cache
+/Users/jones/git/helloWorldinCSharp/obj/Debug/net6.0/ref/helloWorldinCSharp.dll
