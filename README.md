@@ -2,7 +2,7 @@
 
 Here is a brief introduction to C# with a sample implementation of Hello World. I created this to demonstrate the integration between Visual Studio Code, GitHub, and C#.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/tjM3JK4qyAg)
 
 # Development Environment
 
